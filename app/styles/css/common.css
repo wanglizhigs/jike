@@ -1,0 +1,35 @@
+.jk-text-left{
+	text-align: left;
+}
+.jk-text-center{
+	text-align: center;
+}
+.jk-text-right{
+	text-align: right;
+}
+
+
+
+article .item6 .jk-box{
+	width: calc((100% - 60px)/4);
+	width: -webkit-calc((100% - 60px)/4);
+	width: -moz-calc((100% - 60px)/4);
+}
+
+article .item3 .jk-slide-nav li{
+	float: left;
+	height: 30px;
+	line-height: 30px;
+	width: calc(100% / 6);
+	width: -moz-calc(100% / 6);
+	width: -webkit-calc(100% / 6);
+	text-align: center;
+	cursor: pointer;
+}
+
+article .item3 .jk-slide-cont .jk-slide-content li{
+	width: calc((100% - 60px) / 4);
+	width: -moz-calc((100% - 60px) / 4);
+	width: -webkit-calc((100% - 60px) / 4);
+
+}
